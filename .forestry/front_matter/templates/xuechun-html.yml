@@ -1,5 +1,14 @@
 ---
 label: xuechun.html
-hide_body: 
-is_partial: 
-fields: []
+hide_body: false
+is_partial: false
+fields:
+- type: boolean
+  default: false
+  label: Hi
+  name: hi
+- type: file
+  name: pic
+  label: pic
+pages:
+- test.html
