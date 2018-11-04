@@ -23,3 +23,5 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- _projects/test-project.html
